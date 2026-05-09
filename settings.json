@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RoyaleCraft.aternos.me",
+    "port": 35880,
     "version": "",
     "try-creative": false
   },
